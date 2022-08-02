@@ -1,0 +1,17 @@
+Button {
+    border: cn1-pill-border;
+    background-color: #b33838;
+    color: white;
+    font-family: "native:MainThin";
+    font-size: 4mm;
+}
+
+Button.pressed {
+    background-color: #6a1c1c;
+}
+
+Form {
+    background-image: url(images/duke.png);
+    cn1-source-dpi: 260;
+    cn1-background-type: cn1-image-align-bottom-right;
+}
